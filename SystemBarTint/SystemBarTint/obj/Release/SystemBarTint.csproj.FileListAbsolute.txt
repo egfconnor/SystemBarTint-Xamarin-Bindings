@@ -1,0 +1,4 @@
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\SystemBarTint\SystemBarTint\bin\Release\SystemBarTint.dll
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\SystemBarTint\SystemBarTint\bin\Release\SystemBarTint.pdb
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\SystemBarTint\SystemBarTint\obj\Release\SystemBarTint.dll
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\SystemBarTint\SystemBarTint\obj\Release\SystemBarTint.pdb
